@@ -1,0 +1,5 @@
+{
+  "name": "IntelliJ IDEA 초보자 치트시트",
+  "description": "초보자를 위한 인텔리제이 IDEA의 핵심 단축키와 사용법을 정리한 시각적인 치트시트입니다. macOS와 Windows/Linux 환경의 단축키를 모두 포함하여, 탐색, 리팩터링, 디버깅, Git 연동 등 필수 기능을 빠르게 익힐 수 있도록 돕습니다.",
+  "requestFramePermissions": []
+}
